@@ -97,7 +97,7 @@ const Portfolio = () => {
           <div className="cs_section_heading cs_style_1 cs_type_1">
             <div className="cs_section_heading_text">
               <h2 className="cs_section_title anim_text_writting">
-                Some Recent Project We Successfully Done
+                Recent Projects We Successfully Delivered
               </h2>
             </div>
           </div>

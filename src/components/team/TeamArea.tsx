@@ -14,7 +14,7 @@ const TeamArea = () => {
         <div className="cs_section_heading cs_style_1 cs_type_1">
           <div className="cs_section_heading_text">
             <h2 className="cs_section_title anim_text_writting">
-              Our Excellence Team That Can Digitalize Your Brand
+              Experts Committed to Your Success
             </h2>
           </div>
         </div>

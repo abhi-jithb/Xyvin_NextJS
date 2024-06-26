@@ -16,7 +16,11 @@ interface DataType {
 const about_content: DataType = {
   subtitle: `Our Agency Story`,
   title: `How Our Agency is Pushing the Boundaries of Online Marketing and Design`,
-  des: `Xyvin technology is a Kerala based IT company that offers innovative solutions in the domain of Development and Growth. Our vision is to transform your dreams into realities, providing startups and businesses with the tools they need to succeed. Our team comprises a group of engineers turned designers, marketers, and developers, all dedicated to helping businesses and individuals grow. Since our founding, we have worked with numerous clients from both within and outside the country.`,
+  des: `At Xyvin Technologies, we believe that our true value lies in the positive impact we create. While our extensive experience, diverse services, and innovative solutions are notable, the real measure of our success is the difference we make in the lives of our clients and the community.
+When people ask, "What sets Xyvin Technologies apart?" the answer is found in the countless examples where we have helped our clients achieve remarkable goals, overcome complex challenges, and make meaningful progress. It’s embedded in our core beliefs, behaviors, and unwavering sense of purpose that drive everything we do.
+With a strong foundation built over years of dedicated service, Xyvin Technologies employs a talented team committed to making a difference. Our mission is not just to meet expectations but to exceed them by helping our clients realize their ambitions, contributing positively to society, and maximizing the success of our team and community.
+For us, good isn't good enough. We strive for excellence in all that we do – to drive innovation, foster growth, and create a more equitable and prosperous future for all.
+.`,
 }
 const { subtitle, title, des } = about_content
 
@@ -56,9 +60,9 @@ const About = () => {
                     <p className="cs_ternary_color">
                       {des}
                     </p>
-                    <p className="cs_ternary_color">
+                    {/* <p className="cs_ternary_color">
                       {des}
-                    </p>
+                    </p> */}
                   </div>
                 </div>
               </div>
